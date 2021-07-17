@@ -1,0 +1,364 @@
+ID,ProvinsiID,NamaProvinsi,BudidayaID,Budidaya,Tahun,Jumlah
+1,11,Aceh,0,semua budidaya,2002,30959
+2,12,Sumatera Utara,0,semua budidaya,2002,49553
+3,13,Sumatera Barat,0,semua budidaya,2002,103354
+4,14,Riau,0,semua budidaya,2002,39488
+5,15,Jambi,0,semua budidaya,2002,25171
+6,16,Sumatera Selatan,0,semua budidaya,2002,31185
+7,17,Bengkulu,0,semua budidaya,2002,12893
+8,18,Lampung,0,semua budidaya,2002,70517
+9,19,Kepulauan Bangka Belitung,0,semua budidaya,2002,61
+10,21,Kepulauan Riau,0,semua budidaya,2002,0
+11,31,DKI Jakarta,0,semua budidaya,2002,5852
+12,32,Jawa Barat,0,semua budidaya,2002,759454
+13,33,Jawa Tengah,0,semua budidaya,2002,407376
+14,34,DI Yogyakarta,0,semua budidaya,2002,60911
+15,35,Jawa Timur,0,semua budidaya,2002,236291
+16,36,Banten,0,semua budidaya,2002,29934
+17,51,Bali,0,semua budidaya,2002,30640
+18,52,Nusa Tenggara Barat,0,semua budidaya,2002,20805
+19,53,Nusa Tenggara Timur,0,semua budidaya,2002,17676
+20,61,Kalimantan Barat,0,semua budidaya,2002,10859
+21,62,Kalimantan Tengah,0,semua budidaya,2002,8887
+22,63,Kalimantan Selatan,0,semua budidaya,2002,12783
+23,64,Kalimantan Timur,0,semua budidaya,2002,25689
+24,71,Sulawesi Utara,0,semua budidaya,2002,26829
+25,72,Sulawesi Tengah,0,semua budidaya,2002,12625
+26,73,Sulawesi Selatan,0,semua budidaya,2002,86679
+27,74,Sulawesi Tenggara,0,semua budidaya,2002,27894
+28,75,Gorontalo,0,semua budidaya,2002,3549
+29,76,Sulawesi Barat,0,semua budidaya,2002,0
+30,81,Maluku,0,semua budidaya,2002,31
+31,82,Maluku Utara,0,semua budidaya,2002,19
+32,91,Papua Barat,0,semua budidaya,2002,0
+33,94,Papua,0,semua budidaya,2002,42956
+34,11,Aceh,0,semua budidaya,2003,52020
+35,12,Sumatera Utara,0,semua budidaya,2003,102181
+36,13,Sumatera Barat,0,semua budidaya,2003,85534
+37,14,Riau,0,semua budidaya,2003,36313
+38,15,Jambi,0,semua budidaya,2003,44258
+39,16,Sumatera Selatan,0,semua budidaya,2003,33123
+40,17,Bengkulu,0,semua budidaya,2003,8462
+41,18,Lampung,0,semua budidaya,2003,93157
+42,19,Kepulauan Bangka Belitung,0,semua budidaya,2003,407
+43,21,Kepulauan Riau,0,semua budidaya,2003,0
+44,31,DKI Jakarta,0,semua budidaya,2003,6552
+45,32,Jawa Barat,0,semua budidaya,2003,833907
+46,33,Jawa Tengah,0,semua budidaya,2003,460949
+47,34,DI Yogyakarta,0,semua budidaya,2003,83688
+48,35,Jawa Timur,0,semua budidaya,2003,171121
+49,36,Banten,0,semua budidaya,2003,40630
+50,51,Bali,0,semua budidaya,2003,32673
+51,52,Nusa Tenggara Barat,0,semua budidaya,2003,21594
+52,53,Nusa Tenggara Timur,0,semua budidaya,2003,28318
+53,61,Kalimantan Barat,0,semua budidaya,2003,14790
+54,62,Kalimantan Tengah,0,semua budidaya,2003,5441
+55,63,Kalimantan Selatan,0,semua budidaya,2003,13017
+56,64,Kalimantan Timur,0,semua budidaya,2003,19225
+57,71,Sulawesi Utara,0,semua budidaya,2003,13329
+58,72,Sulawesi Tengah,0,semua budidaya,2003,9288
+59,73,Sulawesi Selatan,0,semua budidaya,2003,106535
+60,74,Sulawesi Tenggara,0,semua budidaya,2003,27547
+61,75,Gorontalo,0,semua budidaya,2003,6478
+62,76,Sulawesi Barat,0,semua budidaya,2003,0
+63,81,Maluku,0,semua budidaya,2003,46
+64,82,Maluku Utara,0,semua budidaya,2003,1332
+65,91,Papua Barat,0,semua budidaya,2003,0
+66,94,Papua,0,semua budidaya,2003,32294
+67,11,Aceh,0,semua budidaya,2004,41034
+68,12,Sumatera Utara,0,semua budidaya,2004,65849
+69,13,Sumatera Barat,0,semua budidaya,2004,98093
+70,14,Riau,0,semua budidaya,2004,36291
+71,15,Jambi,0,semua budidaya,2004,25729
+72,16,Sumatera Selatan,0,semua budidaya,2004,44321
+73,17,Bengkulu,0,semua budidaya,2004,16073
+74,18,Lampung,0,semua budidaya,2004,66839
+75,19,Kepulauan Bangka Belitung,0,semua budidaya,2004,1290
+76,21,Kepulauan Riau,0,semua budidaya,2004,0
+77,31,DKI Jakarta,0,semua budidaya,2004,2268
+78,32,Jawa Barat,0,semua budidaya,2004,858128
+79,33,Jawa Tengah,0,semua budidaya,2004,427143
+80,34,DI Yogyakarta,0,semua budidaya,2004,85224
+81,35,Jawa Timur,0,semua budidaya,2004,195083
+82,36,Banten,0,semua budidaya,2004,53909
+83,51,Bali,0,semua budidaya,2004,30244
+84,52,Nusa Tenggara Barat,0,semua budidaya,2004,28978
+85,53,Nusa Tenggara Timur,0,semua budidaya,2004,18071
+86,61,Kalimantan Barat,0,semua budidaya,2004,20469
+87,62,Kalimantan Tengah,0,semua budidaya,2004,18081
+88,63,Kalimantan Selatan,0,semua budidaya,2004,17015
+89,64,Kalimantan Timur,0,semua budidaya,2004,24117
+90,71,Sulawesi Utara,0,semua budidaya,2004,23491
+91,72,Sulawesi Tengah,0,semua budidaya,2004,26893
+92,73,Sulawesi Selatan,0,semua budidaya,2004,172176
+93,74,Sulawesi Tenggara,0,semua budidaya,2004,30743
+94,75,Gorontalo,0,semua budidaya,2004,5793
+95,76,Sulawesi Barat,0,semua budidaya,2004,0
+96,81,Maluku,0,semua budidaya,2004,1090
+97,82,Maluku Utara,0,semua budidaya,2004,1846
+98,91,Papua Barat,0,semua budidaya,2004,0
+99,94,Papua,0,semua budidaya,2004,23075
+100,11,Aceh,0,semua budidaya,2005,45145
+101,12,Sumatera Utara,0,semua budidaya,2005,72018
+102,13,Sumatera Barat,0,semua budidaya,2005,80033
+103,14,Riau,0,semua budidaya,2005,17121
+104,15,Jambi,0,semua budidaya,2005,21475
+105,16,Sumatera Selatan,0,semua budidaya,2005,63562
+106,17,Bengkulu,0,semua budidaya,2005,23372
+107,18,Lampung,0,semua budidaya,2005,64193
+108,19,Kepulauan Bangka Belitung,0,semua budidaya,2005,1001
+109,21,Kepulauan Riau,0,semua budidaya,2005,1566
+110,31,DKI Jakarta,0,semua budidaya,2005,3165
+111,32,Jawa Barat,0,semua budidaya,2005,808998
+112,33,Jawa Tengah,0,semua budidaya,2005,498352
+113,34,DI Yogyakarta,0,semua budidaya,2005,84380
+114,35,Jawa Timur,0,semua budidaya,2005,238247
+115,36,Banten,0,semua budidaya,2005,55921
+116,51,Bali,0,semua budidaya,2005,24404
+117,52,Nusa Tenggara Barat,0,semua budidaya,2005,24602
+118,53,Nusa Tenggara Timur,0,semua budidaya,2005,26615
+119,61,Kalimantan Barat,0,semua budidaya,2005,21078
+120,62,Kalimantan Tengah,0,semua budidaya,2005,18812
+121,63,Kalimantan Selatan,0,semua budidaya,2005,18274
+122,64,Kalimantan Timur,0,semua budidaya,2005,24176
+123,71,Sulawesi Utara,0,semua budidaya,2005,24228
+124,72,Sulawesi Tengah,0,semua budidaya,2005,29495
+125,73,Sulawesi Selatan,0,semua budidaya,2005,153080
+126,74,Sulawesi Tenggara,0,semua budidaya,2005,49245
+127,75,Gorontalo,0,semua budidaya,2005,6403
+128,76,Sulawesi Barat,0,semua budidaya,2005,0
+129,81,Maluku,0,semua budidaya,2005,788
+130,82,Maluku Utara,0,semua budidaya,2005,989
+131,91,Papua Barat,0,semua budidaya,2005,42
+132,94,Papua,0,semua budidaya,2005,5834
+133,11,Aceh,0,semua budidaya,2006,40761
+134,12,Sumatera Utara,0,semua budidaya,2006,70015
+135,13,Sumatera Barat,0,semua budidaya,2006,80532
+136,14,Riau,0,semua budidaya,2006,21912
+137,15,Jambi,0,semua budidaya,2006,25938
+138,16,Sumatera Selatan,0,semua budidaya,2006,94408
+139,17,Bengkulu,0,semua budidaya,2006,16044
+140,18,Lampung,0,semua budidaya,2006,47975
+141,19,Kepulauan Bangka Belitung,0,semua budidaya,2006,1573
+142,21,Kepulauan Riau,0,semua budidaya,2006,2446
+143,31,DKI Jakarta,0,semua budidaya,2006,2818
+144,32,Jawa Barat,0,semua budidaya,2006,614266
+145,33,Jawa Tengah,0,semua budidaya,2006,498352
+146,34,DI Yogyakarta,0,semua budidaya,2006,45568
+147,35,Jawa Timur,0,semua budidaya,2006,168423
+148,36,Banten,0,semua budidaya,2006,62155
+149,51,Bali,0,semua budidaya,2006,26665
+150,52,Nusa Tenggara Barat,0,semua budidaya,2006,24602
+151,53,Nusa Tenggara Timur,0,semua budidaya,2006,52405
+152,61,Kalimantan Barat,0,semua budidaya,2006,17532
+153,62,Kalimantan Tengah,0,semua budidaya,2006,12639
+154,63,Kalimantan Selatan,0,semua budidaya,2006,18476
+155,64,Kalimantan Timur,0,semua budidaya,2006,32741
+156,71,Sulawesi Utara,0,semua budidaya,2006,12872
+157,72,Sulawesi Tengah,0,semua budidaya,2006,34562
+158,73,Sulawesi Selatan,0,semua budidaya,2006,124674
+159,74,Sulawesi Tenggara,0,semua budidaya,2006,62044
+160,75,Gorontalo,0,semua budidaya,2006,5445
+161,76,Sulawesi Barat,0,semua budidaya,2006,40779
+162,81,Maluku,0,semua budidaya,2006,1054
+163,82,Maluku Utara,0,semua budidaya,2006,10385
+164,91,Papua Barat,0,semua budidaya,2006,1521
+165,94,Papua,0,semua budidaya,2006,3726
+166,11,Aceh,0,semua budidaya,2007,46589
+167,12,Sumatera Utara,0,semua budidaya,2007,56998
+168,13,Sumatera Barat,0,semua budidaya,2007,82821
+169,14,Riau,0,semua budidaya,2007,18742
+170,15,Jambi,0,semua budidaya,2007,30405
+171,16,Sumatera Selatan,0,semua budidaya,2007,102389
+172,17,Bengkulu,0,semua budidaya,2007,17350
+173,18,Lampung,0,semua budidaya,2007,50269
+174,19,Kepulauan Bangka Belitung,0,semua budidaya,2007,2157
+175,21,Kepulauan Riau,0,semua budidaya,2007,7344
+176,31,DKI Jakarta,0,semua budidaya,2007,1714
+177,32,Jawa Barat,0,semua budidaya,2007,690403
+178,33,Jawa Tengah,0,semua budidaya,2007,426247
+179,34,DI Yogyakarta,0,semua budidaya,2007,44224
+180,35,Jawa Timur,0,semua budidaya,2007,173611
+181,36,Banten,0,semua budidaya,2007,43863
+182,51,Bali,0,semua budidaya,2007,22887
+183,52,Nusa Tenggara Barat,0,semua budidaya,2007,34202
+184,53,Nusa Tenggara Timur,0,semua budidaya,2007,59726
+185,61,Kalimantan Barat,0,semua budidaya,2007,25640
+186,62,Kalimantan Tengah,0,semua budidaya,2007,17176
+187,63,Kalimantan Selatan,0,semua budidaya,2007,18387
+188,64,Kalimantan Timur,0,semua budidaya,2007,41886
+189,71,Sulawesi Utara,0,semua budidaya,2007,16113
+190,72,Sulawesi Tengah,0,semua budidaya,2007,36054
+191,73,Sulawesi Selatan,0,semua budidaya,2007,106848
+192,74,Sulawesi Tenggara,0,semua budidaya,2007,34095
+193,75,Gorontalo,0,semua budidaya,2007,6916
+194,76,Sulawesi Barat,0,semua budidaya,2007,129382
+195,81,Maluku,0,semua budidaya,2007,1248
+196,82,Maluku Utara,0,semua budidaya,2007,2445
+197,91,Papua Barat,0,semua budidaya,2007,4100
+198,94,Papua,0,semua budidaya,2007,4832
+199,11,Aceh,0,semua budidaya,2008,64480
+200,12,Sumatera Utara,0,semua budidaya,2008,80213
+201,13,Sumatera Barat,0,semua budidaya,2008,84025
+202,14,Riau,0,semua budidaya,2008,18515
+203,15,Jambi,0,semua budidaya,2008,31063
+204,16,Sumatera Selatan,0,semua budidaya,2008,154857
+205,17,Bengkulu,0,semua budidaya,2008,6098
+206,18,Lampung,0,semua budidaya,2008,81641
+207,19,Kepulauan Bangka Belitung,0,semua budidaya,2008,2910
+208,21,Kepulauan Riau,0,semua budidaya,2008,12590
+209,31,DKI Jakarta,0,semua budidaya,2008,1840
+210,32,Jawa Barat,0,semua budidaya,2008,612515
+211,33,Jawa Tengah,0,semua budidaya,2008,444714
+212,34,DI Yogyakarta,0,semua budidaya,2008,81059
+213,35,Jawa Timur,0,semua budidaya,2008,183216
+214,36,Banten,0,semua budidaya,2008,42341
+215,51,Bali,0,semua budidaya,2008,20435
+216,52,Nusa Tenggara Barat,0,semua budidaya,2008,29744
+217,53,Nusa Tenggara Timur,0,semua budidaya,2008,88085
+218,61,Kalimantan Barat,0,semua budidaya,2008,28720
+219,62,Kalimantan Tengah,0,semua budidaya,2008,22482
+220,63,Kalimantan Selatan,0,semua budidaya,2008,19038
+221,64,Kalimantan Timur,0,semua budidaya,2008,36234
+222,71,Sulawesi Utara,0,semua budidaya,2008,16540
+223,72,Sulawesi Tengah,0,semua budidaya,2008,51211
+224,73,Sulawesi Selatan,0,semua budidaya,2008,239149
+225,74,Sulawesi Tenggara,0,semua budidaya,2008,37170
+226,75,Gorontalo,0,semua budidaya,2008,9203
+227,76,Sulawesi Barat,0,semua budidaya,2008,72374
+228,81,Maluku,0,semua budidaya,2008,1308
+229,82,Maluku Utara,0,semua budidaya,2008,1344
+230,91,Papua Barat,0,semua budidaya,2008,2650
+231,94,Papua,0,semua budidaya,2008,8698
+232,11,Aceh,0,semua budidaya,2009,100575
+233,12,Sumatera Utara,0,semua budidaya,2009,82270
+234,13,Sumatera Barat,0,semua budidaya,2009,94181
+235,14,Riau,0,semua budidaya,2009,17485
+236,15,Jambi,0,semua budidaya,2009,34015
+237,16,Sumatera Selatan,0,semua budidaya,2009,183144
+238,17,Bengkulu,0,semua budidaya,2009,7332
+239,18,Lampung,0,semua budidaya,2009,114876
+240,19,Kepulauan Bangka Belitung,0,semua budidaya,2009,2888
+241,21,Kepulauan Riau,0,semua budidaya,2009,12715
+242,31,DKI Jakarta,0,semua budidaya,2009,1772
+243,32,Jawa Barat,0,semua budidaya,2009,467091
+244,33,Jawa Tengah,0,semua budidaya,2009,468738
+245,34,DI Yogyakarta,0,semua budidaya,2009,81009
+246,35,Jawa Timur,0,semua budidaya,2009,182030
+247,36,Banten,0,semua budidaya,2009,35183
+248,51,Bali,0,semua budidaya,2009,20383
+249,52,Nusa Tenggara Barat,0,semua budidaya,2009,28142
+250,53,Nusa Tenggara Timur,0,semua budidaya,2009,74664
+251,61,Kalimantan Barat,0,semua budidaya,2009,29491
+252,62,Kalimantan Tengah,0,semua budidaya,2009,38769
+253,63,Kalimantan Selatan,0,semua budidaya,2009,21472
+254,64,Kalimantan Timur,0,semua budidaya,2009,41592
+255,71,Sulawesi Utara,0,semua budidaya,2009,16661
+256,72,Sulawesi Tengah,0,semua budidaya,2009,54139
+257,73,Sulawesi Selatan,0,semua budidaya,2009,177357
+258,74,Sulawesi Tenggara,0,semua budidaya,2009,18104
+259,75,Gorontalo,0,semua budidaya,2009,5003
+260,76,Sulawesi Barat,0,semua budidaya,2009,41308
+261,81,Maluku,0,semua budidaya,2009,14200
+262,82,Maluku Utara,0,semua budidaya,2009,10666
+263,91,Papua Barat,0,semua budidaya,2009,6927
+264,94,Papua,0,semua budidaya,2009,9011
+265,11,Aceh,0,semua budidaya,2010,68452
+266,12,Sumatera Utara,0,semua budidaya,2010,86277
+267,13,Sumatera Barat,0,semua budidaya,2010,111439
+268,14,Riau,0,semua budidaya,2010,236937
+269,15,Jambi,0,semua budidaya,2010,35551
+270,16,Sumatera Selatan,0,semua budidaya,2010,208919
+271,17,Bengkulu,0,semua budidaya,2010,11812
+272,18,Lampung,0,semua budidaya,2010,91117
+273,19,Kepulauan Bangka Belitung,0,semua budidaya,2010,5152
+274,21,Kepulauan Riau,0,semua budidaya,2010,14554
+275,31,DKI Jakarta,0,semua budidaya,2010,5716
+276,32,Jawa Barat,0,semua budidaya,2010,677033
+277,33,Jawa Tengah,0,semua budidaya,2010,451984
+278,34,DI Yogyakarta,0,semua budidaya,2010,111021
+279,35,Jawa Timur,0,semua budidaya,2010,201982
+280,36,Banten,0,semua budidaya,2010,44077
+281,51,Bali,0,semua budidaya,2010,28647
+282,52,Nusa Tenggara Barat,0,semua budidaya,2010,35714
+283,53,Nusa Tenggara Timur,0,semua budidaya,2010,105673
+284,61,Kalimantan Barat,0,semua budidaya,2010,37346
+285,62,Kalimantan Tengah,0,semua budidaya,2010,28306
+286,63,Kalimantan Selatan,0,semua budidaya,2010,21418
+287,64,Kalimantan Timur,0,semua budidaya,2010,145250
+288,71,Sulawesi Utara,0,semua budidaya,2010,19064
+289,72,Sulawesi Tengah,0,semua budidaya,2010,62163
+290,73,Sulawesi Selatan,0,semua budidaya,2010,296395
+291,74,Sulawesi Tenggara,0,semua budidaya,2010,75080
+292,75,Gorontalo,0,semua budidaya,2010,10747
+293,76,Sulawesi Barat,0,semua budidaya,2010,76768
+294,81,Maluku,0,semua budidaya,2010,21246
+295,82,Maluku Utara,0,semua budidaya,2010,9072
+296,91,Papua Barat,0,semua budidaya,2010,4742
+297,94,Papua,0,semua budidaya,2010,11794
+298,11,Aceh,0,semua budidaya,2011,106561
+299,12,Sumatera Utara,0,semua budidaya,2011,31548
+300,13,Sumatera Barat,0,semua budidaya,2011,85017
+301,14,Riau,0,semua budidaya,2011,36992
+302,15,Jambi,0,semua budidaya,2011,33108
+303,16,Sumatera Selatan,0,semua budidaya,2011,158141
+304,17,Bengkulu,0,semua budidaya,2011,14717
+305,18,Lampung,0,semua budidaya,2011,191562
+306,19,Kepulauan Bangka Belitung,0,semua budidaya,2011,2718
+307,21,Kepulauan Riau,0,semua budidaya,2011,25619
+308,31,DKI Jakarta,0,semua budidaya,2011,9142
+309,32,Jawa Barat,0,semua budidaya,2011,580981
+310,33,Jawa Tengah,0,semua budidaya,2011,579867
+311,34,DI Yogyakarta,0,semua budidaya,2011,152966
+312,35,Jawa Timur,0,semua budidaya,2011,299542
+313,36,Banten,0,semua budidaya,2011,34187
+314,51,Bali,0,semua budidaya,2011,33982
+315,52,Nusa Tenggara Barat,0,semua budidaya,2011,66793
+316,53,Nusa Tenggara Timur,0,semua budidaya,2011,98760
+317,61,Kalimantan Barat,0,semua budidaya,2011,85728
+318,62,Kalimantan Tengah,0,semua budidaya,2011,55635
+319,63,Kalimantan Selatan,0,semua budidaya,2011,5773
+320,64,Kalimantan Timur,0,semua budidaya,2011,66656
+321,71,Sulawesi Utara,0,semua budidaya,2011,19786
+322,72,Sulawesi Tengah,0,semua budidaya,2011,82299
+323,73,Sulawesi Selatan,0,semua budidaya,2011,212152
+324,74,Sulawesi Tenggara,0,semua budidaya,2011,100580
+325,75,Gorontalo,0,semua budidaya,2011,14344
+326,76,Sulawesi Barat,0,semua budidaya,2011,65706
+327,81,Maluku,0,semua budidaya,2011,55180
+328,82,Maluku Utara,0,semua budidaya,2011,9853
+329,91,Papua Barat,0,semua budidaya,2011,6544
+330,94,Papua,0,semua budidaya,2011,21495
+331,11,Aceh,0,semua budidaya,2012,139923
+332,12,Sumatera Utara,0,semua budidaya,2012,104835
+333,13,Sumatera Barat,0,semua budidaya,2012,91365
+334,14,Riau,0,semua budidaya,2012,73302
+335,15,Jambi,0,semua budidaya,2012,66630
+336,16,Sumatera Selatan,0,semua budidaya,2012,194731
+337,17,Bengkulu,0,semua budidaya,2012,18788
+338,18,Lampung,0,semua budidaya,2012,47183
+339,19,Kepulauan Bangka Belitung,0,semua budidaya,2012,6770
+340,21,Kepulauan Riau,0,semua budidaya,2012,40152
+341,31,DKI Jakarta,0,semua budidaya,2012,3081
+342,32,Jawa Barat,0,semua budidaya,2012,1100617
+343,33,Jawa Tengah,0,semua budidaya,2012,677577
+344,34,DI Yogyakarta,0,semua budidaya,2012,192303
+345,35,Jawa Timur,0,semua budidaya,2012,456657
+346,36,Banten,0,semua budidaya,2012,26908
+347,51,Bali,0,semua budidaya,2012,42321
+348,52,Nusa Tenggara Barat,0,semua budidaya,2012,102003
+349,53,Nusa Tenggara Timur,0,semua budidaya,2012,79423
+350,61,Kalimantan Barat,0,semua budidaya,2012,101659
+351,62,Kalimantan Tengah,0,semua budidaya,2012,65365
+352,63,Kalimantan Selatan,0,semua budidaya,2012,43110
+353,64,Kalimantan Timur,0,semua budidaya,2012,138183
+354,71,Sulawesi Utara,0,semua budidaya,2012,20012
+355,72,Sulawesi Tengah,0,semua budidaya,2012,70494
+356,73,Sulawesi Selatan,0,semua budidaya,2012,316560
+357,74,Sulawesi Tenggara,0,semua budidaya,2012,130608
+358,75,Gorontalo,0,semua budidaya,2012,17694
+359,76,Sulawesi Barat,0,semua budidaya,2012,68469
+360,81,Maluku,0,semua budidaya,2012,54870
+361,82,Maluku Utara,0,semua budidaya,2012,6020
+362,91,Papua Barat,0,semua budidaya,2012,14547
+363,94,Papua,0,semua budidaya,2012,15678

@@ -1,0 +1,452 @@
+ID,Benih,Budidaya,Tahun,Jumlah
+1,bandeng <5 cm,budidaya tambak,2001,23646690
+2,bandeng >5 cm,budidaya tambak,2001,5205005
+3,udang windu,budidaya tambak,2001,19021171
+4,udang putih,budidaya tambak,2001,2732715
+5,udang vannamei,budidaya tambak,2001,0
+6,ikan lainnya,budidaya tambak,2001,8966226
+7,bandeng <5 cm,budidaya tambak,2003,22177473
+8,bandeng >5 cm,budidaya tambak,2003,215574
+9,udang windu,budidaya tambak,2003,92049502
+10,udang putih,budidaya tambak,2003,2458419
+11,udang vannamei,budidaya tambak,2003,0
+12,ikan lainnya,budidaya tambak,2003,30538280
+13,bandeng <5 cm,budidaya tambak,2004,70371124
+14,bandeng >5 cm,budidaya tambak,2004,1004403
+15,udang windu,budidaya tambak,2004,459751569
+16,udang putih,budidaya tambak,2004,5437828
+17,udang vannamei,budidaya tambak,2004,0
+18,ikan lainnya,budidaya tambak,2004,9367446
+19,bandeng <5 cm,budidaya tambak,2005,74080344
+20,bandeng >5 cm,budidaya tambak,2005,2704663
+21,udang windu,budidaya tambak,2005,462999218
+22,udang putih,budidaya tambak,2005,6143514
+23,udang vannamei,budidaya tambak,2005,9394854
+24,ikan lainnya,budidaya tambak,2005,280087
+25,bandeng <5 cm,budidaya tambak,2006,1982130
+26,bandeng >5 cm,budidaya tambak,2006,1226298
+27,udang windu,budidaya tambak,2006,8639292
+28,udang putih,budidaya tambak,2006,1824654
+29,udang vannamei,budidaya tambak,2006,9047715
+30,ikan lainnya,budidaya tambak,2006,199340
+31,bandeng <5 cm,budidaya tambak,2007,1249743
+32,bandeng >5 cm,budidaya tambak,2007,12417043
+33,udang windu,budidaya tambak,2007,24550384
+34,udang putih,budidaya tambak,2007,1067666
+35,udang vannamei,budidaya tambak,2007,16415363
+36,ikan lainnya,budidaya tambak,2007,-633361
+37,bandeng <5 cm,budidaya tambak,2008,246988
+38,bandeng >5 cm,budidaya tambak,2008,1728165
+39,udang windu,budidaya tambak,2008,5465998
+40,udang putih,budidaya tambak,2008,374749
+41,udang vannamei,budidaya tambak,2008,5746759
+42,ikan lainnya,budidaya tambak,2008,1097432
+43,bandeng <5 cm,budidaya tambak,2009,21188640
+44,bandeng >5 cm,budidaya tambak,2009,2948511
+45,udang windu,budidaya tambak,2009,77894233
+46,udang putih,budidaya tambak,2009,1654450
+47,udang vannamei,budidaya tambak,2009,96382945
+48,ikan lainnya,budidaya tambak,2009,3997992
+49,bandeng <5 cm,budidaya tambak,2010,9904368
+50,bandeng >5 cm,budidaya tambak,2010,106567258
+51,udang windu,budidaya tambak,2010,6825492
+52,udang putih,budidaya tambak,2010,188592
+53,udang vannamei,budidaya tambak,2010,6355616
+54,ikan lainnya,budidaya tambak,2010,21065596
+55,bandeng <5 cm,budidaya tambak,2011,2483932
+56,bandeng >5 cm,budidaya tambak,2011,653
+57,udang windu,budidaya tambak,2011,7530667
+58,udang putih,budidaya tambak,2011,1026509
+59,udang vannamei,budidaya tambak,2011,16079861
+60,ikan lainnya,budidaya tambak,2011,1631461
+61,ikan mas <5 cm,budidaya kolam,2001,4500664
+62,ikan mas >5 cm,budidaya kolam,2001,16964217
+63,tawes,budidaya kolam,2001,3177964
+64,nila,budidaya kolam,2001,7282750
+65,gurami,budidaya kolam,2001,1188834
+66,lele,budidaya kolam,2001,6017753
+67,sidat,budidaya kolam,2001,104
+68,patin,budidaya kolam,2001,86352
+69,jelawat,budidaya kolam,2001,0
+70,mujair,budidaya kolam,2001,1606128
+71,ikan lainnya,budidaya kolam,2001,7650390
+72,ikan mas <5 cm,budidaya kolam,2003,1953746
+73,ikan mas >5 cm,budidaya kolam,2003,4514608
+74,tawes,budidaya kolam,2003,420051
+75,nila,budidaya kolam,2003,4888229
+76,gurami,budidaya kolam,2003,2924999
+77,lele,budidaya kolam,2003,12517749
+78,sidat,budidaya kolam,2003,494
+79,patin,budidaya kolam,2003,0
+80,jelawat,budidaya kolam,2003,0
+81,mujair,budidaya kolam,2003,0
+82,ikan lainnya,budidaya kolam,2003,2602456
+83,ikan mas <5 cm,budidaya kolam,2004,1831846
+84,ikan mas >5 cm,budidaya kolam,2004,4031358
+85,tawes,budidaya kolam,2004,1873025
+86,nila,budidaya kolam,2004,8722976
+87,gurami,budidaya kolam,2004,3474271
+88,lele,budidaya kolam,2004,18643444
+89,sidat,budidaya kolam,2004,1017
+90,patin,budidaya kolam,2004,40001
+91,jelawat,budidaya kolam,2004,481400
+92,mujair,budidaya kolam,2004,266548
+93,ikan lainnya,budidaya kolam,2004,2647725
+94,ikan mas <5 cm,budidaya kolam,2005,18161974
+95,ikan mas >5 cm,budidaya kolam,2005,161023596
+96,tawes,budidaya kolam,2005,1660741
+97,nila,budidaya kolam,2005,172164668
+98,gurami,budidaya kolam,2005,11321662
+99,lele,budidaya kolam,2005,90840609
+100,sidat,budidaya kolam,2005,220
+101,patin,budidaya kolam,2005,346123
+102,jelawat,budidaya kolam,2005,520470
+103,mujair,budidaya kolam,2005,388258
+104,ikan lainnya,budidaya kolam,2005,8976596
+105,ikan mas <5 cm,budidaya kolam,2006,48305170
+106,ikan mas >5 cm,budidaya kolam,2006,193067948
+107,tawes,budidaya kolam,2006,8930963
+108,nila,budidaya kolam,2006,248245889
+109,gurami,budidaya kolam,2006,6967892
+110,lele,budidaya kolam,2006,14092456
+111,sidat,budidaya kolam,2006,49
+112,patin,budidaya kolam,2006,1432741
+113,jelawat,budidaya kolam,2006,524688
+114,mujair,budidaya kolam,2006,120436
+115,ikan lainnya,budidaya kolam,2006,1883014
+116,ikan mas <5 cm,budidaya kolam,2007,23070649
+117,ikan mas >5 cm,budidaya kolam,2007,249774047
+118,tawes,budidaya kolam,2007,9007978
+119,nila,budidaya kolam,2007,50143194
+120,gurami,budidaya kolam,2007,5771765
+121,lele,budidaya kolam,2007,30687920
+122,sidat,budidaya kolam,2007,0
+123,patin,budidaya kolam,2007,2338359
+124,jelawat,budidaya kolam,2007,5868
+125,mujair,budidaya kolam,2007,12603756
+126,ikan lainnya,budidaya kolam,2007,15479978
+127,ikan mas <5 cm,budidaya kolam,2008,373595
+128,ikan mas >5 cm,budidaya kolam,2008,2049960
+129,tawes,budidaya kolam,2008,35505
+130,nila,budidaya kolam,2008,2887084
+131,gurami,budidaya kolam,2008,393797
+132,lele,budidaya kolam,2008,2349403
+133,sidat,budidaya kolam,2008,0
+134,patin,budidaya kolam,2008,118071
+135,jelawat,budidaya kolam,2008,14
+136,mujair,budidaya kolam,2008,26735
+137,ikan lainnya,budidaya kolam,2008,103766
+138,ikan mas <5 cm,budidaya kolam,2009,17408730
+139,ikan mas >5 cm,budidaya kolam,2009,3034863
+140,tawes,budidaya kolam,2009,1751319
+141,nila,budidaya kolam,2009,31809792
+142,gurami,budidaya kolam,2009,8181716
+143,lele,budidaya kolam,2009,101064395
+144,sidat,budidaya kolam,2009,40
+145,patin,budidaya kolam,2009,976511
+146,jelawat,budidaya kolam,2009,169
+147,mujair,budidaya kolam,2009,241247
+148,ikan lainnya,budidaya kolam,2009,19807497
+149,ikan mas <5 cm,budidaya kolam,2010,3144516
+150,ikan mas >5 cm,budidaya kolam,2010,8452134
+151,tawes,budidaya kolam,2010,774021
+152,nila,budidaya kolam,2010,25220970
+153,gurami,budidaya kolam,2010,11374611
+154,lele,budidaya kolam,2010,4034193
+155,sidat,budidaya kolam,2010,15
+156,patin,budidaya kolam,2010,116858516
+157,jelawat,budidaya kolam,2010,191
+158,mujair,budidaya kolam,2010,115069
+159,ikan lainnya,budidaya kolam,2010,5211801
+160,ikan mas <5 cm,budidaya kolam,2011,892961
+161,ikan mas >5 cm,budidaya kolam,2011,2948
+162,tawes,budidaya kolam,2011,81291
+163,nila,budidaya kolam,2011,3321035
+164,gurami,budidaya kolam,2011,224532
+165,lele,budidaya kolam,2011,3255757
+166,sidat,budidaya kolam,2011,1512
+167,patin,budidaya kolam,2011,756590
+168,jelawat,budidaya kolam,2011,1844
+169,mujair,budidaya kolam,2011,58850
+170,ikan lainnya,budidaya kolam,2011,453874
+171,ikan mas <5 cm,budidaya karamba,2001,813
+172,ikan mas >5 cm,budidaya karamba,2001,5862807
+173,tawes,budidaya karamba,2001,126997
+174,nila,budidaya karamba,2001,10925998
+175,gurami,budidaya karamba,2001,680
+176,lele,budidaya karamba,2001,224223
+177,patin,budidaya karamba,2001,0
+178,jelawat,budidaya karamba,2001,0
+179,toman,budidaya karamba,2001,0
+180,betutu,budidaya karamba,2001,0
+181,ikan lainnya,budidaya karamba,2001,2204900
+182,ikan mas <5 cm,budidaya karamba,2003,105308
+183,ikan mas >5 cm,budidaya karamba,2003,125336
+184,tawes,budidaya karamba,2003,7475
+185,nila,budidaya karamba,2003,99432
+186,gurami,budidaya karamba,2003,611
+187,lele,budidaya karamba,2003,156
+188,patin,budidaya karamba,2003,0
+189,jelawat,budidaya karamba,2003,0
+190,toman,budidaya karamba,2003,0
+191,betutu,budidaya karamba,2003,0
+192,ikan lainnya,budidaya karamba,2003,209158
+193,ikan mas <5 cm,budidaya karamba,2004,114294
+194,ikan mas >5 cm,budidaya karamba,2004,157285
+195,tawes,budidaya karamba,2004,4220
+196,nila,budidaya karamba,2004,352326
+197,gurami,budidaya karamba,2004,3718
+198,lele,budidaya karamba,2004,2612
+199,patin,budidaya karamba,2004,91000
+200,jelawat,budidaya karamba,2004,13137
+201,toman,budidaya karamba,2004,116578
+202,betutu,budidaya karamba,2004,20500
+203,ikan lainnya,budidaya karamba,2004,6068
+204,ikan mas <5 cm,budidaya karamba,2005,349331
+205,ikan mas >5 cm,budidaya karamba,2005,1549700
+206,tawes,budidaya karamba,2005,2703
+207,nila,budidaya karamba,2005,958641
+208,gurami,budidaya karamba,2005,22273
+209,lele,budidaya karamba,2005,3646
+210,patin,budidaya karamba,2005,124781
+211,jelawat,budidaya karamba,2005,592687
+212,toman,budidaya karamba,2005,633796
+213,betutu,budidaya karamba,2005,173583
+214,ikan lainnya,budidaya karamba,2005,36670
+215,ikan mas <5 cm,budidaya karamba,2006,333546
+216,ikan mas >5 cm,budidaya karamba,2006,1558912
+217,tawes,budidaya karamba,2006,5602
+218,nila,budidaya karamba,2006,808755
+219,gurami,budidaya karamba,2006,8707
+220,lele,budidaya karamba,2006,3537
+221,patin,budidaya karamba,2006,330048
+222,jelawat,budidaya karamba,2006,593231
+223,toman,budidaya karamba,2006,634680
+224,betutu,budidaya karamba,2006,172971
+225,ikan lainnya,budidaya karamba,2006,1864955
+226,ikan mas <5 cm,budidaya karamba,2007,102024328
+227,ikan mas >5 cm,budidaya karamba,2007,22739509
+228,tawes,budidaya karamba,2007,1699013
+229,nila,budidaya karamba,2007,16500
+230,gurami,budidaya karamba,2007,61448417
+231,lele,budidaya karamba,2007,0
+232,patin,budidaya karamba,2007,0
+233,jelawat,budidaya karamba,2007,14536658
+234,toman,budidaya karamba,2007,42500
+235,betutu,budidaya karamba,2007,143
+236,ikan lainnya,budidaya karamba,2007,1541589
+237,ikan mas <5 cm,budidaya karamba,2008,135453
+238,ikan mas >5 cm,budidaya karamba,2008,2308940
+239,tawes,budidaya karamba,2008,83
+240,nila,budidaya karamba,2008,2218097
+241,gurami,budidaya karamba,2008,7345
+242,lele,budidaya karamba,2008,30897
+243,patin,budidaya karamba,2008,279302
+244,jelawat,budidaya karamba,2008,10669
+245,toman,budidaya karamba,2008,40982
+246,betutu,budidaya karamba,2008,10048
+247,ikan lainnya,budidaya karamba,2008,40378
+248,ikan mas <5 cm,budidaya karamba,2009,160644
+249,ikan mas >5 cm,budidaya karamba,2009,214252
+250,tawes,budidaya karamba,2009,5310
+251,nila,budidaya karamba,2009,455189
+252,gurami,budidaya karamba,2009,2749
+253,lele,budidaya karamba,2009,455189
+254,patin,budidaya karamba,2009,299578
+255,jelawat,budidaya karamba,2009,20660
+256,toman,budidaya karamba,2009,24940
+257,betutu,budidaya karamba,2009,923
+258,ikan lainnya,budidaya karamba,2009,15884
+259,ikan mas <5 cm,budidaya karamba,2010,49459
+260,ikan mas >5 cm,budidaya karamba,2010,2302769
+261,tawes,budidaya karamba,2010,225
+262,nila,budidaya karamba,2010,3090999
+263,gurami,budidaya karamba,2010,695
+264,lele,budidaya karamba,2010,1677
+265,patin,budidaya karamba,2010,16843
+266,jelawat,budidaya karamba,2010,1130
+267,toman,budidaya karamba,2010,10980
+268,betutu,budidaya karamba,2010,406
+269,ikan lainnya,budidaya karamba,2010,27870
+270,ikan mas <5 cm,budidaya karamba,2011,76076
+271,ikan mas >5 cm,budidaya karamba,2011,574
+272,tawes,budidaya karamba,2011,70
+273,nila,budidaya karamba,2011,209511
+274,gurami,budidaya karamba,2011,7862
+275,lele,budidaya karamba,2011,111754
+276,patin,budidaya karamba,2011,362317
+277,jelawat,budidaya karamba,2011,15927
+278,toman,budidaya karamba,2011,98305
+279,betutu,budidaya karamba,2011,52959
+280,ikan lainnya,budidaya karamba,2011,98463
+281,ikan mas <5 cm,budidaya minapadi,2001,10539211
+282,ikan mas >5 cm,budidaya minapadi,2001,20865665
+283,tawes,budidaya minapadi,2001,1142665
+284,nila,budidaya minapadi,2001,10254998
+285,gurami,budidaya minapadi,2001,1427
+286,lele,budidaya minapadi,2001,6027
+287,ikan lainnya,budidaya minapadi,2001,581233
+288,ikan mas <5 cm,budidaya minapadi,2003,92800
+289,ikan mas >5 cm,budidaya minapadi,2003,23045
+290,tawes,budidaya minapadi,2003,16213
+291,nila,budidaya minapadi,2003,190211
+292,gurami,budidaya minapadi,2003,205
+293,lele,budidaya minapadi,2003,1951
+294,ikan lainnya,budidaya minapadi,2003,715198
+295,ikan mas <5 cm,budidaya minapadi,2004,104151
+296,ikan mas >5 cm,budidaya minapadi,2004,87778
+297,tawes,budidaya minapadi,2004,355861
+298,nila,budidaya minapadi,2004,112278
+299,gurami,budidaya minapadi,2004,307
+300,lele,budidaya minapadi,2004,5927
+301,ikan lainnya,budidaya minapadi,2004,986815
+302,ikan mas <5 cm,budidaya minapadi,2005,249206
+303,ikan mas >5 cm,budidaya minapadi,2005,128543
+304,tawes,budidaya minapadi,2005,198040
+305,nila,budidaya minapadi,2005,347293
+306,gurami,budidaya minapadi,2005,1119
+307,lele,budidaya minapadi,2005,23706
+308,ikan lainnya,budidaya minapadi,2005,1292089
+309,ikan mas <5 cm,budidaya minapadi,2006,224337
+310,ikan mas >5 cm,budidaya minapadi,2006,133315
+311,tawes,budidaya minapadi,2006,195868
+312,nila,budidaya minapadi,2006,351556
+313,gurami,budidaya minapadi,2006,1028
+314,lele,budidaya minapadi,2006,21263
+315,ikan lainnya,budidaya minapadi,2006,1049702
+316,ikan mas <5 cm,budidaya minapadi,2007,6008581
+317,ikan mas >5 cm,budidaya minapadi,2007,61911
+318,tawes,budidaya minapadi,2007,194687
+319,nila,budidaya minapadi,2007,3323712
+320,gurami,budidaya minapadi,2007,64064
+321,lele,budidaya minapadi,2007,42656
+322,ikan lainnya,budidaya minapadi,2007,175607
+323,ikan mas <5 cm,budidaya minapadi,2008,28371
+324,ikan mas >5 cm,budidaya minapadi,2008,152933
+325,tawes,budidaya minapadi,2008,2689
+326,nila,budidaya minapadi,2008,540521
+327,gurami,budidaya minapadi,2008,2439
+328,lele,budidaya minapadi,2008,7223
+329,ikan lainnya,budidaya minapadi,2008,45416
+330,ikan mas <5 cm,budidaya minapadi,2009,197229
+331,ikan mas >5 cm,budidaya minapadi,2009,428764
+332,tawes,budidaya minapadi,2009,217920
+333,nila,budidaya minapadi,2009,663079
+334,gurami,budidaya minapadi,2009,4450
+335,lele,budidaya minapadi,2009,113045
+336,ikan lainnya,budidaya minapadi,2009,245312
+337,ikan mas <5 cm,budidaya minapadi,2010,423120
+338,ikan mas >5 cm,budidaya minapadi,2010,5368745
+339,tawes,budidaya minapadi,2010,1381
+340,nila,budidaya minapadi,2010,2987308
+341,gurami,budidaya minapadi,2010,306
+342,lele,budidaya minapadi,2010,89329
+343,ikan lainnya,budidaya minapadi,2010,14543
+344,ikan mas <5 cm,budidaya minapadi,2011,768848
+345,ikan mas >5 cm,budidaya minapadi,2011,1916
+346,tawes,budidaya minapadi,2011,4376
+347,nila,budidaya minapadi,2011,474088
+348,gurami,budidaya minapadi,2011,1508
+349,lele,budidaya minapadi,2011,24164
+350,ikan lainnya,budidaya minapadi,2011,187068
+351,semua ikan,budidaya laut,2001,0
+352,semua ikan,budidaya tambak,2001,59571807
+353,semua ikan,budidaya kolam,2001,48475156
+354,semua ikan,budidaya karamba,2001,19346418
+355,semua ikan,budidaya jaring apung,2001,0
+356,semua ikan,budidaya minapadi,2001,43391226
+357,semua ikan,budidaya laut,2003,0
+358,semua ikan,budidaya tambak,2003,147439248
+359,semua ikan,budidaya kolam,2003,29822332
+360,semua ikan,budidaya karamba,2003,547452
+361,semua ikan,budidaya jaring apung,2003,0
+362,semua ikan,budidaya minapadi,2003,1039549
+363,semua ikan,budidaya laut,2004,0
+364,semua ikan,budidaya tambak,2004,545932370
+365,semua ikan,budidaya kolam,2004,42013611
+366,semua ikan,budidaya karamba,2004,881738
+367,semua ikan,budidaya jaring apung,2004,0
+368,semua ikan,budidaya minapadi,2004,1653117
+369,semua ikan,budidaya laut,2005,0
+370,semua ikan,budidaya tambak,2005,555602680
+371,semua ikan,budidaya kolam,2005,465404917
+372,semua ikan,budidaya karamba,2005,4447811
+373,semua ikan,budidaya jaring apung,2005,0
+374,semua ikan,budidaya minapadi,2005,2239996
+375,semua ikan,budidaya laut,2006,0
+376,semua ikan,budidaya tambak,2006,22999825
+377,semua ikan,budidaya kolam,2006,581339576
+378,semua ikan,budidaya karamba,2006,4452178
+379,semua ikan,budidaya jaring apung,2006,0
+380,semua ikan,budidaya minapadi,2006,1300799
+381,semua ikan,budidaya laut,2007,0
+382,semua ikan,budidaya tambak,2007,55066838
+383,semua ikan,budidaya kolam,2007,398883516
+384,semua ikan,budidaya karamba,2007,204048656
+385,semua ikan,budidaya jaring apung,2007,29175305
+386,semua ikan,budidaya minapadi,2007,9871217
+387,semua ikan,budidaya laut,2008,32798312
+388,semua ikan,budidaya tambak,2008,14660091
+389,semua ikan,budidaya kolam,2008,8337930
+390,semua ikan,budidaya karamba,2008,5082194
+391,semua ikan,budidaya jaring apung,2008,2821226
+392,semua ikan,budidaya minapadi,2008,779592
+393,semua ikan,budidaya laut,2009,336005
+394,semua ikan,budidaya tambak,2009,204066770
+395,semua ikan,budidaya kolam,2009,184276278
+396,semua ikan,budidaya karamba,2009,1655316
+397,semua ikan,budidaya jaring apung,2009,15117406
+398,semua ikan,budidaya minapadi,2009,1869798
+399,semua ikan,budidaya laut,2010,5473335
+400,semua ikan,budidaya tambak,2010,150906922
+401,semua ikan,budidaya kolam,2010,175186037
+402,semua ikan,budidaya karamba,2010,5503053
+403,semua ikan,budidaya jaring apung,2010,20490703
+404,semua ikan,budidaya minapadi,2010,8884732
+405,semua ikan,budidaya laut,2011,9966310
+406,semua ikan,budidaya tambak,2011,28753084
+407,semua ikan,budidaya kolam,2011,9051194
+408,semua ikan,budidaya karamba,2011,1033818
+409,semua ikan,budidaya jaring apung,2011,3895489
+410,semua ikan,budidaya minapadi,2011,1461967
+411,bandeng <5 cm,budidaya tambak,2012,2172242
+412,bandeng >5 cm,budidaya tambak,2012,49950
+413,udang windu,budidaya tambak,2012,8006044
+414,udang putih,budidaya tambak,2012,314945
+415,udang vannamei,budidaya tambak,2012,19511944
+416,ikan lainnya,budidaya tambak,2012,700311
+417,ikan mas <5 cm,budidaya kolam,2012,1278037
+418,ikan mas >5 cm,budidaya kolam,2012,3763
+419,tawes,budidaya kolam,2012,114240
+420,nila,budidaya kolam,2012,2060032
+421,gurami,budidaya kolam,2012,276009
+422,lele,budidaya kolam,2012,4874728
+423,sidat,budidaya kolam,2012,125
+424,patin,budidaya kolam,2012,1275089
+425,jelawat,budidaya kolam,2012,295
+426,mujair,budidaya kolam,2012,6830
+427,ikan lainnya,budidaya kolam,2012,906809
+428,ikan mas <5 cm,budidaya karamba,2012,87542
+429,ikan mas >5 cm,budidaya karamba,2012,0
+430,tawes,budidaya karamba,2012,60
+431,nila,budidaya karamba,2012,258120
+432,gurami,budidaya karamba,2012,1385
+433,lele,budidaya karamba,2012,28715
+434,patin,budidaya karamba,2012,483578
+435,jelawat,budidaya karamba,2012,5622
+436,toman,budidaya karamba,2012,53626
+437,betutu,budidaya karamba,2012,5156
+438,ikan lainnya,budidaya karamba,2012,258612
+439,ikan mas <5 cm,budidaya minapadi,2012,266797
+440,ikan mas >5 cm,budidaya minapadi,2012,4666
+441,tawes,budidaya minapadi,2012,17678
+442,nila,budidaya minapadi,2012,170171
+443,gurami,budidaya minapadi,2012,2539
+444,lele,budidaya minapadi,2012,41997
+445,ikan lainnya,budidaya minapadi,2012,69894
+446,semua ikan,budidaya laut,2012,3165582
+447,semua ikan,budidaya tambak,2012,28966844
+448,semua ikan,budidaya kolam,2012,10795957
+449,semua ikan,budidaya karamba,2012,1182416
+450,semua ikan,budidaya jaring apung,2012,2718598
+451,semua ikan,budidaya minapadi,2012,573742
